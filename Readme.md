@@ -1,14 +1,37 @@
-# Github开源项目精选月刊
+# Github开源项目精选周刊
 
-## 2023年度
+## 社区介绍:
 
-### 6月
+[OpenGithub社区](http://open.itc.cn/): 挖掘Github优质开源项目,帮助用户发现有趣、实用、流行、好玩的开源项目.
 
-- 第五期：[Github开源项目精选-6月第三周](docs/6月第三周.md)
-- 第四期：[Github开源项目精选-6月第二周](docs/6月第二周.md)
-- 第三期：[Github开源项目精选-6月第一周](docs/6月第一周.md)
+- 🤝社区任务:社区互动提升自身的开源项目⭐
+- 🌋热门仓库:最新的AI/ChatGPT/算法/工具...流行Github项目推荐
+- 📈趋势榜:Github每日/周/月实时榜单
+- 📚期刊:精选最新开源项目,提供周刊/月刊/专栏等期刊文章
 
-### 5月
+## 期刊内容
 
-- 第二期：[Github开源项目精选-5月第四周](docs/5月第四周.md)
-- 第一期：[Github开源项目精选-5月第三周](docs/5月第三周.md)
+> 2023年度
+
+| 🏆 | 🥇 | 🥈 | 🥉 | 🏅 |
+| ------- | ----- | ------------ | ------ | --------- |
+| [**7月**](/content/HelloGitHub55.md) |  第 1 周 | 第 2 周 | 第 3 周 | 第 4 周 |
+| [**6月**](/content/HelloGitHub50.md) |  [第 1 周](docs/6月第一周.md) | [第 2 周](docs/6月第二周.md) | [第 3 周](docs/6月第三周.md) | 第 4 周 |
+| [**5月**](/content/HelloGitHub05.md) | 第 1 周 | 第 2 周 | [第 3 周](docs/5月第三周.md) | [第 4 周](docs/5月第四周.md) |
+
+记录每周Github精选项目，每周一更新。
+欢迎投稿，推荐好的开源项目，请[提交 issue](https://github.com/OpenGithubs/weekly/issues)) 。
+
+## 更多项目推荐
+
+> Github历史期刊:
+
+- 周刊汇总:[Github精选开源项目月刊,每周一更新](https://github.com/OpenGithubs/weekly)
+- 月刊汇总:[Github精选开源项目月刊,每月30号更新](https://github.com/OpenGithubs/monthly)
+
+> 更多好的开源项目请关注我们狐动社公众号/知乎号
+
+<image src="http://photocdn.tv.sohu.com/img/q_mini/20230525/pic_org_ed11340c-cba7-4072-942a-69a9ec0bc251.png" style="width:50%">
+
+
+
