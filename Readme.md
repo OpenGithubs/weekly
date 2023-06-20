@@ -20,13 +20,13 @@
 | **5月** | 第 1 周 | 第 2 周 | [第 3 周](docs/5月第三周.md) | [第 4 周](docs/5月第四周.md) |
 
 记录每周Github精选项目，每周一更新。
-欢迎投稿，推荐好的开源项目，请[提交 issue](https://github.com/OpenGithubs/weekly/issues)) 。
+欢迎投稿，推荐好的开源项目，请[提交 issue](https://github.com/OpenGithubs/weekly/issues)。
 
 ## 更多项目推荐
 
 > Github历史期刊:
 
-- 周刊汇总:[Github精选开源项目月刊,每周一更新](https://github.com/OpenGithubs/weekly)
+- 周刊汇总:[Github精选开源项目周刊,每周一更新](https://github.com/OpenGithubs/weekly)
 - 月刊汇总:[Github精选开源项目月刊,每月30号更新](https://github.com/OpenGithubs/monthly)
 
 > 更多好的开源项目请关注我们狐动社公众号/知乎号
