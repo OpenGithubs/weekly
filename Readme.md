@@ -28,6 +28,7 @@
 
 - 周刊汇总:[Github精选开源项目周刊,每周一更新](https://github.com/OpenGithubs/weekly)
 - 月刊汇总:[Github精选开源项目月刊,每月30号更新](https://github.com/OpenGithubs/monthly)
+- 专栏汇总:[Github精选开源项目专栏,不定期更新](https://github.com/OpenGithubs/selectedColumn)
 
 > 更多好的开源项目请关注我们狐动社公众号/知乎号
 
