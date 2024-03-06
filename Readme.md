@@ -9,9 +9,7 @@
 - 📈趋势榜:Github每日/周/月实时榜单
 - 📚期刊:精选最新开源项目,提供周刊/月刊/专栏等期刊文章
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=OpenGithubs/weekly&type=Date)](https://star-history.com/#OpenGithubs/weekly&Date)
 
 ## 期刊内容
 
@@ -44,6 +42,10 @@
 
 记录每周Github精选项目，每周一更新。
 欢迎投稿，推荐好的开源项目，请[提交 issue](https://github.com/OpenGithubs/weekly/issues)。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=OpenGithubs/weekly&type=Date)](https://star-history.com/#OpenGithubs/weekly&Date)
 
 ## 更多项目推荐
 
