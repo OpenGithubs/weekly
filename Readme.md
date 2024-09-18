@@ -20,7 +20,7 @@
 | **12月** | 第 1 周                  | 第 2 周                  | 第 3 周                  | 第 4 周                  |
 | **11月** | 第 1 周                  | 第 2 周                  | 第 3 周                  | 第 4 周                  |
 | **10月** | 第 1 周                  | 第 2 周                  | 第 3 周                  | 第 4 周                  |
-| **9月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2024/09/20240909.md) | [第 2 周]                | [第 3 周]                | [第 4 周]                |
+| **9月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2024/09/20240909.md) | [第 2 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2024/09/20240916.md)  | [第 3 周]                | [第 4 周]                |
 | **8月**  | [第 1 周](2024/8月第一周.md) | [第 2 周](2024/8月第二周.md) | [第 3 周](2024/8月第三周.md) | [第 4 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2024/08/20240830.md)                |
 | **7月**  | [第 1 周](2024/7月第一周.md) | [第 2 周](2024/7月第三周.md) | [第 3 周](2024/7月第三周.md) | [第 4 周](2024/7月第四周.md) |
 | **6月**  | [第 1 周](2024/6月第一周.md) | [第 2 周](2024/6月第二周.md) | [第 3 周](2024/6月第三周.md) | [第 4 周](2024/6月第四周.md) |
