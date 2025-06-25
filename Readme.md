@@ -81,7 +81,7 @@
 
 > 更多好的开源项目请关注我们狐动社公众号/知乎号
 
-<image src="http://photocdn.tv.sohu.com/img/q_mini/20230525/pic_org_ed11340c-cba7-4072-942a-69a9ec0bc251.png" style="width:50%">
+<image src="https://github.com/OpenGithubs/OpenGithubs/blob/main/contact.png" style="width:50%">
 
 
 
