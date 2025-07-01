@@ -9,6 +9,9 @@
 - 📈趋势榜:Github每日/周/月实时榜单
 - 📚期刊:精选最新开源项目,提供周刊/月刊/专栏等期刊文章
 
+**关注我们:**
+
+<img class="avatar-img " style="width:400px;height:220px;" src="contact.png" alt=""></span>[![OpenGithubs's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpenGithubs&show_icons=true)](https://github.com/OpenGithubs/OpenGithubs)
 
 
 ## 期刊内容
