@@ -16,12 +16,24 @@
 
 ## 期刊内容
 
+> 2026年度
+
+| 🏆      | 🥇                     | 🥈                     | 🥉                     | 🏅                     |
+|---------|------------------------|------------------------|------------------------|------------------------|            |
+| **7月**  | [第 1 周] | [第 2 周] | [第 3 周] | [第 4 周] |
+| **6月**  | [第 1 周] | [第 2 周] | [第 3 周] | [第 4 周] |
+| **5月**  | [第 1 周]| [第 2 周] | [第 3 周]| [第 4 周] |
+| **4月**  | [第 1 周] | [第 2 周] | [第 3 周] | [第 4 周] |
+| **3月**  | [第 1 周] | [第 2 周] | [第 3 周] | [第 4 周] |
+| **2月**  | [第 1 周] | [第 2 周] | [第 3 周] | [第 4 周] |
+| **1月**  | [第 1 周]([2024/1月第一周.md](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/01/20260105.md)) | [第 2 周]([2024/1月第二周.md](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/01/20260112.md)) | [第 3 周]([2024/1月第三周.md](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/01/20260119.md)) | [第 4 周]([2024/1月第四周.md](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/01/20260128.md)) |
+
 > 2025年度
 
 | 🏆      | 🥇                     | 🥈                     | 🥉                     | 🏅                     |
 |---------|------------------------|------------------------|------------------------|------------------------|
-| **12月**  | [第 1 周] | [第 2 周] | [第 3 周]| [第 4 周]|
-| **11月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/11/20251103.md) | [第 2 周] | [第 3 周]| [第 4 周]|
+| **12月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/12/20251208.md) | [第 2 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/12/20251215.md) | [第 3 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/12/20251222.md)| [第 4 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/12/20251229.md)|
+| **11月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/11/20251103.md) | [第 2 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/11/20251110.md) | [第 3 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/11/20251117.md)| [第 4 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/11/20251124.md)|
 | **10月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/10/20251006.md) | [第 2 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/10/20251014.md) | [第 3 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/10/20251020.md)| [第 4 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/10/20251028.md)|
 | **9月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/09/20250901.md) | [第 2 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/09/20250908.md) | [第 3 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/09/20250915.md)| [第 4 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/09/20250922.md)|
 | **8月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/08/20250804.md) | [第 2 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/08/20250811.md) | [第 3 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/08/20250818.md)| [第 4 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2025/08/20250825.md)|
