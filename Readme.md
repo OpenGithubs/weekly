@@ -25,7 +25,7 @@
 | **5月**  | [第 1 周]| [第 2 周]  | [第 3 周]| [第 4 周] |
 | **4月**  | [第 1 周] | [第 2 周] | [第 3 周] | [第 4 周] |
 | **3月**  | [第 1 周] | [第 2 周] | [第 3 周] | [第 4 周] |
-| **2月**  | [第 1 周] | [第 2 周] | [第 3 周] | [第 4 周] |
+| **2月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/02/20260202.md) | [第 2 周] | [第 3 周] | [第 4 周] |
 | **1月**  | [第 1 周]([2024/1月第一周.md](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/01/20260105.md)) | [第 2 周]([2024/1月第二周.md](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/01/20260112.md)) | [第 3 周]([2024/1月第三周.md](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/01/20260119.md)) | [第 4 周]([2024/1月第四周.md](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/01/20260128.md)) |
 
 > 2025年度
