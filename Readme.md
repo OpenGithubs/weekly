@@ -21,8 +21,8 @@
 | 🏆      | 🥇                     | 🥈                     | 🥉                     | 🏅                     |
 |---------|------------------------|------------------------|------------------------|------------------------|            
 | **12月**  | [第 1 周] | [第 2 周] | [第 3 周] | [第 4 周] |
-| **11月**  | [第 1 周] | [第 2 周] | [第 3 周] | [第 4 周] |
-| **10月**  | [第 1 周] | [第 2 周] | [第 3 周] | [第 4 周] |
+| **11月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/11/20261102.md) | [第 2 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/11/20261109.md) | [第 3 周] | [第 4 周] |
+| **10月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/10/20261005.md) | [第 2 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/10/20261012.md) | [第 3 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/10/20261019.md) | [第 4 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/10/20261026.md) |
 | **9月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/09/20260907.md) | [第 2 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/09/20260914.md) | [第 3 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/09/20260921.md) | [第 4 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/09/20260928.md) |
 | **8月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/08/20260803.md) | [第 2 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/08/20260810.md) | [第 3 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/08/20260817.md) | [第 4 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/08/20260831.md) |
 | **7月**  | [第 1 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/07/20260706.md) | [第 2 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/07/20260713.md) | [第 3 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/07/20260720.md) | [第 4 周](https://github.com/OpenGithubs/github-weekly-rank/blob/main/2026/07/20260727.md) |
